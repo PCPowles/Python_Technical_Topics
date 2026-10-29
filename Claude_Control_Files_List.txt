@@ -1,0 +1,16 @@
+Claude_Control_Files
+--------------------
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+.claude/
+-----------------------
+-settings.json
+-settings.local.json
+-rules/
+	-code-style.md
+-skills/
+	-deploy/
+		-skill.md
+-agents/
+	-code-reviewer.md
