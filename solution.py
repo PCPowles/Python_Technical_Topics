@@ -1,10 +1,17 @@
 
+# Lists
 """
 Lists
 ------
 # Simple example of a list
 example_list = [1, 2, 3, 4, 5]
 print(example_list[0])  # Outputs: 1
+
+# jp morgan gives what kind of python coding assessment
+# https://www.linkjob.ai/interview-questions/jp-morgan-hackerrank-test/
+
+
+
 """
 
 
