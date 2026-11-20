@@ -72,6 +72,50 @@ print("Is the item packed?", is_item_packed)
 print("Item index:", item_index)
 
 
+#/////////////////////////////////////////////////////
+#
+#/////////////////////////////////////////////////////
+
+# Initialize an empty list named 'suitcase'
+# TODO: Add items to your suitcase
+lstSuitcase= [] 
+lstSuitcase= ['t-shirt', 'shorts', 'sandals']
+
+
+# Declare a string variable for your goodbye message
+# TODO: Assign a farewell message to the variable
+strGoodBye = "Goodbye, Hollywood!!"
+
+# Access the first and last item in your suitcase
+# TODO: Print the first item in the suitcase
+print(lstSuitcase[0])
+
+# TODO: Print the last item in the suitcase
+print(lstSuitcase[-1])
+
+# Send off with a farewell in uppercase
+# TODO: Print the farewell message in uppercase
+print(strGoodBye.upper())
+
+
+#//////////////////////////////////////////////////
+# Manipulate String
+# https://codesignal.com/learn/course/90/unit/2/practice/6
+#//////////////////////////////////////////////////
+
+# Given mission name
+mission_name = "Sort"
+
+# TODO: Print the first and the last character of the mission name
+print(mission_name[0])
+print(mission_name[-1])
+
+# TODO: The mission needs a minor update. We aim to change its first letter to 'P' and the last letter to `k`, obtaining the word "Pork".
+# Remember, strings in Python are immutable, so you cannot alter them directly.
+mission_name = "P" + mission_name[1:3] + "k"
+
+# TODO: Print the updated mission name
+print(mission_name)
 
 
 
